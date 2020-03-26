@@ -46,7 +46,7 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\TimerScript.cs" />
-     <Compile Include="Assets\mantul.cs" />
+     <Compile Include="Assets\ballmovement.cs" />
      <Compile Include="Assets\moveKanan.cs" />
      <Compile Include="Assets\moveKiri.cs" />
  <Reference Include="Unity.Timeline.Editor">
